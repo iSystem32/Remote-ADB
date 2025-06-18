@@ -2,7 +2,7 @@
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 
 ## ❤️Tutorials and FAQ(updating)↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-### 💎💎💎💎💎💎 If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
+### 💎💎💎💎💎💎 If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (0x6661df610053ac@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
 #### [Tutorials->How to open and connect adb](./md/tutorials.md)
 #### [FAQ](./md/tutorials.md)
 
@@ -40,9 +40,9 @@
 13. Support view prop information.
 
 ## Feedback
-- [Github issues](https://github.com/jarhot1992/Remote-ADB/issues)
-- [Email]() colorboxguestservice@gmail.com
+- [Github issues](https://github.com/iSystem32/Remote-ADB/issues)
+- [Email]() 0x6661df610053ac@gmail.com
 
 ## Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
-- [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+- [awesome-adb](https://github.com/iSystem32/awesome-adb/blob/master/README.en.md)
